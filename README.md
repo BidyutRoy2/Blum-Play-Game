@@ -1,4 +1,4 @@
-# Blum-Play-Game Without Tap Tap Tap
+# Blum-Play-Game Without Tap Tap Tap And Earn BP
 
 1/ Register Blum Mining Bot [HERE](https://t.me/blum/app?startapp=ref_XpJR8EJL1s)
 
@@ -17,7 +17,7 @@
 6/ Open https://web.telegram.org
 - Login Your Telegram Account
 <p align="center">
-<img src='2024-08-30_163842.jpg' style="width:800px;height:400px;">
+<img src='2024-08-30_163842.jpg' style="width:400px;height:600px;">
 </p>
 - Open Blum Mining Bot
 - Setup Bot Setting & Play
