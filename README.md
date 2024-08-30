@@ -2,7 +2,7 @@
 
 1/ Register Blum Mining Bot [HERE](https://t.me/blum/app?startapp=ref_XpJR8EJL1s) Don't have Account
 
-2/ Pc User Use Chrome/Brave and Mobile Users Download Browser [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en) / [Mises](https://play.google.com/store/apps/details?id=site.mises.browser&hl=en)
+2/ Pc User Use Chrome or Brave and Mobile Users Use Browser [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en) or [Mises](https://play.google.com/store/apps/details?id=site.mises.browser&hl=en)
 
 3/ Install Extension Browser & Pin [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) and [gnore X-Frame headers](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)
 
