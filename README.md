@@ -14,6 +14,7 @@
 
 
 5/ Import Zip File Violentmonkey Extension
+- CLick `Violentmonkey Extension` `Setting icon` & `add zip File`
 
 <p align="center">
 <img src='Screenshot 2024-08-30 asas163621.png' style="width:800px;height:400px;">
