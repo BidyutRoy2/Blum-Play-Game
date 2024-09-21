@@ -2,11 +2,13 @@
 
 1/ Register Blum Mining Bot [HERE](https://t.me/blum/app?startapp=ref_XpJR8EJL1s) Don't have Account
 
-2/ Pc User Use Chrome or Brave and Mobile Users Use Browser [Download Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en) or [Download Mises Browser](https://play.google.com/store/apps/details?id=site.mises.browser&hl=en)
+2/ Pc User Use Chrome or Brave
 
-3/ Install Extension Browser & Pin [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) and [gnore X-Frame headers](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)
+3/ Mobile Users Use Browser [Download Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en) or [Download Mises Browser](https://play.google.com/store/apps/details?id=site.mises.browser&hl=en)
 
-4/ Download Zip File [HERE](https://github.com/BidyutRoy2/Blum-Play-Game/blob/main/violentmonkey.zip)
+3/ Add/Install Extension in Chrome/Kiwi/Mises Browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) and [gnore X-Frame headers](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)
+
+4/ Download Zip File [Go HERE](https://github.com/BidyutRoy2/Blum-Play-Game/blob/main/violentmonkey.zip)
 
 <p align="center">
 <img src='2024-08-30_174402.jpg' style="width:400px;height:600px;">
