@@ -5,6 +5,7 @@
 ## 2/ Pc User Use Chrome or Brave
 
 ## 3/ Mobile Users Use Browser [Download Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en) or [Download Mises Browser](https://play.google.com/store/apps/details?id=site.mises.browser&hl=en)
+- Switch Desktop Mode
 
 ## 4/ Add/Install Extension in Chrome/Kiwi/Mises Browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) and [gnore X-Frame headers](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)
 
