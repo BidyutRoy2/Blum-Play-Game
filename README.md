@@ -22,11 +22,12 @@
 
 6/ Open https://web.telegram.org
 - Login Your Telegram Account
+- Go To Blum Mining Bot & Play
+- Setup Bot Setting Auto Play
+- Done
 <p align="center">
-<img src='2024-08-30_163842.jpg' style="width:400px;height:600px;">
+<img src='2024-09-22_022514.jpg' style="width:400px;height:600px;">
 </p>
-- Open Blum Mining Bot
-- Setup Bot Setting & Play
 
 
 # ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
